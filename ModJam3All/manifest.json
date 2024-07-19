@@ -1,0 +1,25 @@
+{
+  "$schema": "https://raw.githubusercontent.com/ow-mods/owml/master/schemas/manifest_schema.json",
+  "filename": "ModJam3All.dll",
+  "author": "a bunch of people",
+  "name": "Every Jam 3 Mod",
+  "uniqueName": "xen-42.ModJam3All",
+  "version": "0.1.0",
+  "owmlVersion": "2.13.0",
+  "dependencies": [
+    "xen.NewHorizons",
+    "xen.ModJam3",
+    "xen.UnofficialJam3Entry",
+    "orclecle.Finis",
+    "CrypticBird.Jam3",
+    "GameWyrm.SymbiosisShipLogs",
+    "MegaPiggy.Axiom",
+    "Echatsum.CallisThesis",
+    "coderCleric.JamHub",
+    "TeamErnesto.OWJam3ModProject",
+    "Hawkbar.SolarRangers",
+    "Trifid.TrifidJam3",
+    "pikpik_carrot.BandTogether",
+    "GameWyrm.HearthsNeighbor2"
+  ]
+}
